@@ -3,15 +3,10 @@ PROJ_NAME = Activity
 BUILD_DIR = Build
 
 # All Source code files
-SRC = src/ReadADC.c\
-src/ledstat.c\
-src/OutPWM.c\
-src/UART.c\
-main.c\
-
+SRC = 
 
 # All header file paths
-INC = -I inc
+INC = 
 
 # Find out the OS and configure the variables accordingly
 ifdef OS	# All configurations for Windwos OS
