@@ -1,18 +1,5 @@
 # emb_activity
 
-<<<<<<< HEAD
-TEMPERATURE CONTROLLER
-
-# Given casestudy:
-![case study](https://github.com/KAUSI110799/emb_activity/blob/462a986c4c9de1359c6144b214e39ef2dc2b597c/IMAGES%20AND%20RESULTS/casestudy.JPG)
-
-# Conditions:
-![conditions](https://github.com/KAUSI110799/emb_activity/blob/d4758c90c08c1787f5fad8100d7228a34a0e3614/IMAGES%20AND%20RESULTS/tabulation.JPG)
-
-
-# Solution:
-![solution](https://github.com/KAUSI110799/emb_activity/blob/7017a78be6161bd86ea227c71399ecd580fdfaf1/IMAGES%20AND%20RESULTS/Screenshot%20(59).png)
-=======
 # Heat Controller System
 
 
@@ -25,8 +12,15 @@ A car seat's temperature is controlled by the Seat Heating control system. When 
 >5. Heater will check the heater button is ON
 >6. Temp to CAN shows the value of temperature gone over protocol
 
-# CI and Code Quality
+# Given casestudy:
+![case study](https://github.com/KAUSI110799/emb_activity/blob/462a986c4c9de1359c6144b214e39ef2dc2b597c/IMAGES%20AND%20RESULTS/casestudy.JPG)
 
-| Build |	Cppcheck | Codacy |
-|-----|------|-----|
->>>>>>> a0b4c56cba2ba3520d2dd18f9025da3f987ece39
+# Conditions:
+![conditions](https://github.com/KAUSI110799/emb_activity/blob/d4758c90c08c1787f5fad8100d7228a34a0e3614/IMAGES%20AND%20RESULTS/tabulation.JPG)
+
+
+# Solution:
+![solution](https://github.com/KAUSI110799/emb_activity/blob/7017a78be6161bd86ea227c71399ecd580fdfaf1/IMAGES%20AND%20RESULTS/Screenshot%20(59).png)
+
+
+
