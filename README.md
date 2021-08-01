@@ -16,8 +16,7 @@ A car seat's temperature is controlled by the Seat Heating control system. When 
 ![case study](https://github.com/2015pushkar/303459_Embedded_casestudy/blob/main/303459_Embedded_CaseStudy/IMAGES%20AND%20RESULTS/casestudy.JPG)
 
 # Conditions:
-![conditions](https://github.com/KAUSI110799/emb_activity/blob/d4758c90c08c1787f5fad8100d7228a34a0e3614/IMAGES%20AND%20RESULTS/tabulation.JPG)
-
+![conditions](https://github.com/2015pushkar/303459_Embedded_casestudy/blob/main/303459_Embedded_CaseStudy/IMAGES%20AND%20RESULTS/tabulation.JPG)
 
 # Solution:
 ![solution](https://github.com/KAUSI110799/emb_activity/blob/7017a78be6161bd86ea227c71399ecd580fdfaf1/IMAGES%20AND%20RESULTS/Screenshot%20(59).png)
