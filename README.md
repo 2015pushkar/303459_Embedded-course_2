@@ -1,6 +1,9 @@
 
 # Heat Controller System
 
+
+A car seat's temperature is controlled by the Seat Heating control system. When a passenger or driver sits in a car, the button sensor activates, acting as one switch. The user must then turn on the heater, which acts as a second switch. The temperature sensor continues to monitor and record the temperature, and the analogue value is sent to the ATmega328 microcontroller. The microcontroller reads the temperature sensor's analogue input and outputs the temperature value via USART.
+
 >1. Button Sensor will check the passenger is sited or not
 >2. Temperature sensor works as table no. 1
 >3. Display CDD-CRO will give the temperature value by showing PWM
